@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WORKSPACE\\pj_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{117C46D9-CA8D-4686-A8C1-0263A24E59F0}|pj_01\\pj_01.csproj|d:\\workspace\\pj_01\\pj_01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117C46D9-CA8D-4686-A8C1-0263A24E59F0}|pj_01\\pj_01.csproj|solutionrelative:pj_01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C46D9-CA8D-4686-A8C1-0263A24E59F0}|pj_01\\pj_01.csproj|d:\\workspace\\pj_01\\pj_01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{117C46D9-CA8D-4686-A8C1-0263A24E59F0}|pj_01\\pj_01.csproj|solutionrelative:pj_01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\WORKSPACE\\pj_01\\pj_01\\Form1.cs",
+              "RelativeDocumentMoniker": "pj_01\\Form1.cs",
+              "ToolTip": "D:\\WORKSPACE\\pj_01\\pj_01\\Form1.cs",
+              "RelativeToolTip": "pj_01\\Form1.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowCgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:43:08.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\WORKSPACE\\pj_01\\pj_01\\Form1.cs",
+              "RelativeDocumentMoniker": "pj_01\\Form1.cs",
+              "ToolTip": "D:\\WORKSPACE\\pj_01\\pj_01\\Form1.cs [Design]",
+              "RelativeToolTip": "pj_01\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:40:14.084Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\WORKSPACE\pj_01\pj_01\bin\Debug\pj_01.exe.config
+D:\WORKSPACE\pj_01\pj_01\bin\Debug\pj_01.exe
+D:\WORKSPACE\pj_01\pj_01\bin\Debug\pj_01.pdb
+D:\WORKSPACE\pj_01\pj_01\bin\Debug\EasyModbus.dll
+D:\WORKSPACE\pj_01\pj_01\bin\Debug\EasyModbusV2.dll
+D:\WORKSPACE\pj_01\pj_01\bin\Debug\EasyModbus.xml
+D:\WORKSPACE\pj_01\pj_01\obj\Debug\pj_01.csproj.AssemblyReference.cache
+D:\WORKSPACE\pj_01\pj_01\obj\Debug\pj_01.Form1.resources
+D:\WORKSPACE\pj_01\pj_01\obj\Debug\pj_01.Properties.Resources.resources
+D:\WORKSPACE\pj_01\pj_01\obj\Debug\pj_01.csproj.GenerateResource.cache
+D:\WORKSPACE\pj_01\pj_01\obj\Debug\pj_01.csproj.CoreCompileInputs.cache
+D:\WORKSPACE\pj_01\pj_01\obj\Debug\pj_01.csproj.Up2Date
+D:\WORKSPACE\pj_01\pj_01\obj\Debug\pj_01.exe
+D:\WORKSPACE\pj_01\pj_01\obj\Debug\pj_01.pdb
